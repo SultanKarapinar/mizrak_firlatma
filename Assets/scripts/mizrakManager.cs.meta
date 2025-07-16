@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 3127b3549470cc44dac387d81c0bc54f
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - mizrakPrefab: {instanceID: 0}
+  - mizrakIconPrefab: {fileID: 4357089072378345230, guid: d048e2ba220c61d4b81c5246b203d782, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
