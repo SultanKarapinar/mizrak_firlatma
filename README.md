@@ -23,3 +23,9 @@ Unity 2D ile geliştirdiğim arcade türündeki bu oyunda, oyuncu mızrak fırla
 2. Çarka çarpmadan başarılı şekilde mızrak yerleştiren oyuncu puan kazanır.  
 3. Mızraklar çarpışırsa oyun sona erer ve ana ekrana geri dönülür.  
 
+##📸 Ekran Görüntüsü
+
+![OyunGirisEkrani](https://github.com/user-attachments/assets/dd20ebc2-976a-4c8c-bf0b-33dcbf8a15bb) 
+![OyunEkrani](https://github.com/user-attachments/assets/c3f502a3-e0e0-4177-9cab-37543abe75f3)
+![OyunVideo](https://github.com/user-attachments/assets/fa1384fb-fba1-400d-b031-9dd27ecb8e31)
+
