@@ -2,6 +2,9 @@
 
 Unity 2D ile geliştirdiğim arcade türündeki bu oyunda, oyuncu mızrak fırlatarak dönen çarklara isabet ettirmeye çalışır. Oyunun temel hedefi, doğru zamanlama ve refleks ile mızrakları çarklara yerleştirip en yüksek skoru elde etmektir.  
 
+## 🎥 Demo Video
+https://youtu.be/NwLNO1wB8Xw
+
 ## 🚀 Özellikler
 - 🔹 **Mızrak Fırlatma Mekaniği** – Oyuncunun ana kontrol sistemi  
 - 🔹 **Döngüsel Çark Hareketi** – Zorluk seviyesi giderek artan dinamik çarklar  
